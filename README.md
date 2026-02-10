@@ -1,5 +1,5 @@
 ## Hi there!👋 I am Kawya Singh
-🔭 I’m currently working on Building real-world Python and Data Science projects with clean structure and documentation.<br>👯 I’m looking to collaborate on Beginner-friendly data analysis projects and open-source Python utilities.<br>🤝 I’m looking for help with Improving project architecture and writing production-level Python code.<br>🌱 I’m currently learning Advanced Python, SQL for analytics, and practical data workflows.<br>⚡ Fun fact I prefer building complete projects over just finishing courses.<br>
+🔭 I’m currently working on Building real-world Python and Data Science projects with clean structure and documentation.<br>👯 I’m looking to collaborate on Beginner-friendly data analysis projects and open-source Python utilities.<br>🤝 I’m looking for help with Improving project architecture and writing production-level Python code.<br>🌱 I’m currently learning Advanced ML, SQL for analytics, and practical data workflows.<br>⚡ Fun fact I prefer building complete projects over just finishing courses.<br>
 
 
 ## Reach me at:
